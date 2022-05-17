@@ -1,0 +1,11 @@
+[
+  { "text": "Excel shows me an error", "category": "software" },
+  { "text": "My computer won't run", "category": "hardware" },
+  { "text": "program", "category": "software" },
+  { "text": "power supply", "category": "hardware" },
+  { "text": "drive", "category": "hardware" },
+  { "text": "Code", "category": "software" },
+  { "text": "I found some errors in the code", "category": "software" },
+  { "text": "I extended the memory", "category": "hardware" },
+  { "text": "I tested the code", "category": "software" }
+]
